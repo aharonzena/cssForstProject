@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+}
+div{
+    background-color: rgba(202, 191, 191, 0.396);
+    height: 60vh;
+    width: 50vh;
+    margin: auto;
+    border-radius: 5%;
+    position:fixed;
+    inset:0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+
+img{
+    border-radius: 55%;
+}
+
+button{
+    background-color: grey;
+    height: 5vh;
+    width: 30vh;
+    margin: auto;
+    border-radius: 1cap;
+   
+   
+    
+}
+b{
+    color: white;
+}
